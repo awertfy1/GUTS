@@ -12,7 +12,7 @@ export default function gameover(citySfx) {
 
   // Define the ranking grades and their corresponding score thresholds
   //ТУТ НАПИСАНЫ УРОВНИ РАНГА ПРОХОЖДЕНИЯ ЗА ОЧКИ
-  const rankGrades = ["НОВИЧОК", "Ефрейтор", "ДЕЦЛ", "ФАНАТ САМСУНГА", "11Б КЛАСС", "ЧИТИНСКИЕ КЛЮЧИ", "СИГМА"];
+  const rankGrades = ["НОВИЧОК", "Ефрейтор", "ДЕЦЛ", "ФАНАТ \n САМСУНГА", "11Б \n КЛАСС", "ЧИТИНСКИЕ \n КЛЮЧИ", "СИГМА"];
   const rankValues = [50, 80, 100, 200, 300, 400, 500];
 
   // Initialize ranks for the current and best scores
