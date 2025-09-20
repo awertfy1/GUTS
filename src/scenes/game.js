@@ -50,7 +50,7 @@ export default function game() {
 
   // Initialize score text and variable
   const scoreText = k.add([
-    k.text("СЧЁТ : 0", { font: "mania", size: 72 }),
+    k.text("SCORE : 0", { font: "mania", size: 72 }),
     k.pos(20, 20),
   ]);
   let score = 0;
